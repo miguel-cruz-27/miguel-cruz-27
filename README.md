@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Miguel, a graduate student at Nova IMS in data science. 
+I am Miguel. 
 
 Currently, working on a chatbot for tourism in Lisbon, using Python, Azure Open AI and Chroma!
 
