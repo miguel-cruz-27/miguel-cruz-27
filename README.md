@@ -1,5 +1,4 @@
 ### Hi there 👋
-I am Miguel. 
 
 Currently, working on a chatbot for tourism in Lisbon, using Python, Azure Open AI and Chroma!
 
