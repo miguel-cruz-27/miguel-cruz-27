@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Currently, working on a chatbot for tourism in Lisbon, using Python, Azure Open AI and Chroma!
-
 Come check out some of the projects I have done!
 
 In love with enterpreneurial projects, so if you are looking for a partner or simply someone to connect with, hit me up:
